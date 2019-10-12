@@ -1,0 +1,10 @@
+C:\Users\joleitne\source\repos\MailKitTest\MailKitTest\bin\Release\netcoreapp2.1\MailKitTest.deps.json
+C:\Users\joleitne\source\repos\MailKitTest\MailKitTest\bin\Release\netcoreapp2.1\MailKitTest.runtimeconfig.json
+C:\Users\joleitne\source\repos\MailKitTest\MailKitTest\bin\Release\netcoreapp2.1\MailKitTest.runtimeconfig.dev.json
+C:\Users\joleitne\source\repos\MailKitTest\MailKitTest\bin\Release\netcoreapp2.1\MailKitTest.dll
+C:\Users\joleitne\source\repos\MailKitTest\MailKitTest\bin\Release\netcoreapp2.1\MailKitTest.pdb
+C:\Users\joleitne\source\repos\MailKitTest\MailKitTest\obj\Release\netcoreapp2.1\MailKitTest.csproj.CoreCompileInputs.cache
+C:\Users\joleitne\source\repos\MailKitTest\MailKitTest\obj\Release\netcoreapp2.1\MailKitTest.AssemblyInfoInputs.cache
+C:\Users\joleitne\source\repos\MailKitTest\MailKitTest\obj\Release\netcoreapp2.1\MailKitTest.AssemblyInfo.cs
+C:\Users\joleitne\source\repos\MailKitTest\MailKitTest\obj\Release\netcoreapp2.1\MailKitTest.dll
+C:\Users\joleitne\source\repos\MailKitTest\MailKitTest\obj\Release\netcoreapp2.1\MailKitTest.pdb
